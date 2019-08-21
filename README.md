@@ -4,7 +4,7 @@ A Node + Puppeteer base image for running Puppeteer scripts. Add your own tools 
 
 ## Versions
 
-See the list of [Docker Hub tags](https://hub.docker.com/r/buildkite/puppeteer/tags/) for Puppeteer versions available.
+See the list of [Docker Hub tags](https://hub.docker.com/r/kenoboe/puppeteer/tags/) for Puppeteer versions available.
 
 ## Example
 
